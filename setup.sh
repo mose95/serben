@@ -4,7 +4,22 @@
 apt update
 
 # Giulio
-apt install git wget curl bzip2 zip unzip rar unrar p7zip-full w3m nmap net-tools dos2unix zsh
+apt install git \
+            wget \
+            curl \
+            bzip2 \
+            zip \
+            unzip \
+            rar \
+            unrar \
+            p7zip-full \
+            w3m \
+            nmap \
+            net-tools \
+            dos2unix \
+            zsh \
+            htop \
+            nload
 
 # Mose
 apt install htop nload
