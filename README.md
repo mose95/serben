@@ -1,5 +1,9 @@
 # serben
 
+<h2>Setup</h2>
+apt update
+<hr/>
+<h2>Docker Containers</h2>
 <p>
 wget https://raw.githubusercontent.com/mose95/serben/master/docker-deluge.sh
 <br/>
