@@ -1,7 +1,24 @@
-# serben
-
+<h1>Serben</h1>
+<hr/>
 <h2>Setup</h2>
-apt update
+apt update/
+<br>
+apt install git \
+            wget \
+            curl \
+            bzip2 \
+            zip \
+            unzip \
+            rar \
+            unrar \
+            p7zip-full \
+            w3m \
+            nmap \
+            net-tools \
+            dos2unix \
+            zsh \
+            htop \
+nload
 <hr/>
 <h2>Docker Containers</h2>
 <p>
